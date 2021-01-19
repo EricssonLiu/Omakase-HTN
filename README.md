@@ -1,4 +1,7 @@
-# Hack The North 2020++ project
+# Omakase
+[Video presentation (Originally for judging)](https://youtu.be/j9NGynxIVFI)
+
+![alt text](https://i.imgur.com/neKboO1.png "Omakase Preview")
 
 ## Installation
 
